@@ -118,7 +118,7 @@ end
 
 ???
 
-### Mass Assignment
+## Mass Assignment
 
 Another benefit of using keyword arguments is the ability to "mass assign" attributes to an object. Let's revisit our `Person` class from an earlier lesson. We'd like to initialize individual people with a name and an age:
 
@@ -160,7 +160,7 @@ Your turn:
 
 ???
 
-### Code Challenge II: Mass Assignment
+## Code Challenge II: Mass Assignment
 
 Define a class, `School`, that initializes with a name and a location. The class should also have `attr_accessor`s for `name` and `location`. The `initialize` method should use keyword arguments for those attributes.
 
